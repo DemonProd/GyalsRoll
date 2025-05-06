@@ -61,21 +61,6 @@ function rollCards(price) {
   let rareChance = 0;
   let rarity = '';
 
-  // Define rarity based on Owo Cash value
-  if (price === 1000) {
-    rareChance = 0.05;
-    rarity = 'Member, OG Member';
-  } else if (price === 10000) {
-    rareChance = 0.15;
-    rarity = 'Mod, Grim';
-  } else if (price === 100000) {
-    rareChance = 0.5;
-    rarity = 'Admin, Mod';
-  } else if (price === 1000000) {
-    rareChance = 1;
-    rarity = 'Co-Owner, The Coder';
-  }
-
   for (let i = 0; i < count; i++) {
     const card = getRandomCard(rareChance, rarity);
     playerCollection.push(card);
