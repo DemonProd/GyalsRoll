@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Title -->
+  <title>GyalsRoll</title>
+
+  <!-- Links -->
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="collection.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <div class="container">
+    <a href="home.html">Home</a>
+    <a href="shop.html">Shop</a>
+    <a class="active" href="collection.html">Collection</a>
+    <a href="contact.html">Contact</a>
+  </div>
+
+  <!-- Owo Cash Display -->
+  <p class="owoCash">Owo Cash: <span id="coins">0</span></p>
+
+  <!-- Collection Display -->
+  <h2>Your Collection:</h2>
+  <div class="search-container">
+    <input style="font-size: 24px; background-color: #00cbff; border: 2px solid #fd19d0; border-radius: 25px;" type="text" id="cardSearch" placeholder="Search Cards" onkeyup="searchCards()" />
+    <button onclick="clearSearch()">Clear</button>
+  </div>
+  <div id="collection" class="collection-grid"></div>
+
+  <!-- Modal -->
+  <div id="playerModal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeModal()">&times;</span>
+      <div id="modalDetails"></div>
+      <button id="sellCardBtn">Sell Card</button>
+    </div>
+  </div>
+
+  <!-- Logo -->
+  <img class="logo" src="Logo.png" alt="Logo" width="150px" />
+
+  <!-- Footer -->
+  <p class="footer">
+    GyalsRoll Copyright © 2025 All Rights Reserved.
+    | Designed & Developed By The Prodigy
+  </p>
+
+  <!-- Scripts -->
+  <script src="collection.js"></script>
+</body>
+</html>

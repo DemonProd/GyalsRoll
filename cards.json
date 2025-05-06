@@ -1,0 +1,296 @@
+[
+  {
+    "Name": "The Prodigy",
+    "Role": "Member",
+    "Image": "ProdigyM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Fasial",
+    "Role": "Member",
+    "Image": "FasialM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Zyko",
+    "Role": "Member",
+    "Image": "ZykoM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Negan Smith",
+    "Role": "Member",
+    "Image": "NeganM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Nova",
+    "Role": "Member",
+    "Image": "NovaM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Joao",
+    "Role": "Member",
+    "Image": "JoaoM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Reix",
+    "Role": "Member",
+    "Image": "ReixM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Fushi",
+    "Role": "Member",
+    "Image": "FushiM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Zephyr",
+    "Role": "Member",
+    "Image": "ZephM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Kirby",
+    "Role": "Member",
+    "Image": "KirbyM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Dilo",
+    "Role": "Member",
+    "Image": "DiloM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Mello",
+    "Role": "Member",
+    "Image": "MelloM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Adna",
+    "Role": "Member",
+    "Image": "AdnaM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Camiii",
+    "Role": "Member",
+    "Image": "CamiM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Sandstorm",
+    "Role": "Member",
+    "Image": "SandstormM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Underworld",
+    "Role": "Member",
+    "Image": "UnderworldM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Grim",
+    "Role": "Grim",
+    "Image": "GrimG.png",
+    "Value": 5000
+  },
+  {
+    "Name": "cate is the loml",
+    "Role": "OG Member",
+    "Image": "ZykoOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "the peg monster",
+    "Role": "OG Member",
+    "Image": "ReixOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Benja",
+    "Role": "Member",
+    "Image": "OG.png",
+    "Value": 500
+  },
+  {
+    "Name": "Benja",
+    "Role": "OG Member",
+    "Image": "BenjaOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Underworld",
+    "Role": "OG Member",
+    "Image": "UnderworldOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "The Prodigy",
+    "Role": "The Coder",
+    "Image": "ProdigyC.png",
+    "Value": 750000
+  },
+  {
+    "Name": "Nova",
+    "Role": "OG Member",
+    "Image": "NovaOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Dilo",
+    "Role": "OG Member",
+    "Image": "DiloOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Fushi",
+    "Role": "OG Member",
+    "Image": "FushiOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Ritz",
+    "Role": "Co-Owner",
+    "Image": "RitzCO.png",
+    "Value": 500000
+  },
+  {
+    "Name": "Dem0n Prod",
+    "Role": "Mod",
+    "Image": "ProdigyMO.png",
+    "Value": 10000
+  },
+  {
+    "Name": "the gyatt monster",
+    "Role": "Mod",
+    "Image": "ReixMO.png",
+    "Value": 10000
+  },
+  {
+    "Name": "GORGUS GASLIGHTER",
+    "Role": "Mod",
+    "Image": "SophieMO.png",
+    "Value": 10000
+  },
+  {
+    "Name": "Agentiano Ronaldo",
+    "Role": "Mod",
+    "Image": "AgentMO.png",
+    "Value": 10000
+  },
+  {
+    "Name": "Agent",
+    "Role": "Member",
+    "Image": "AgentM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Agent",
+    "Role": "OG Member",
+    "Image": "AgentOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "GORGUS GASLIGHTER",
+    "Role": "Member",
+    "Image": "SophieM.png",
+    "Value": 500
+  },
+  {
+    "Name": "GORGUS GASLIGHTER",
+    "Role": "OG Member",
+    "Image": "SophieOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "cate is the loml",
+    "Role": "Mod",
+    "Image": "ZykoMO.png",
+    "Value": 10000
+  },
+  {
+    "Name": "Mello",
+    "Role": "Mod",
+    "Image": "MelloMO.png",
+    "Value": 10000
+  },
+  {
+    "Name": "Mello",
+    "Role": "OG Member",
+    "Image": "MelloOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Adna",
+    "Role": "OG Member",
+    "Image": "AdnaOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Kirby",
+    "Role": "OG Member",
+    "Image": "KirbyOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Aashir",
+    "Role": "Member",
+    "Image": "AashirM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Aashir",
+    "Role": "OG Member",
+    "Image": "AashirOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "Joao",
+    "Role": "OG Member",
+    "Image": "JoaoOG.png",
+    "Value": 1000
+  },
+  {
+    "Name": "LECK MEINE ZEHEN",
+    "Role": "Admin",
+    "Image": "JoaoAD.png",
+    "Value": 85000
+  },
+  {
+    "Name": "Negan Smith",
+    "Role": "Admin",
+    "Image": "NeganAD.png",
+    "Value": 85000
+  },
+  {
+    "Name": "Fasial",
+    "Role": "Admin",
+    "Image": "FasialAD.png",
+    "Value": 85000
+  },
+  {
+    "Name": "⋆｡˚Zwaphøちゃん˚｡⋆",
+    "Role": "Admin",
+    "Image": "ZephAD.png",
+    "Value": 85000
+  },
+  {
+    "Name": "Nova",
+    "Role": "Admin",
+    "Image": "NovaAD.png",
+    "Value": 85000
+  },
+  {
+    "Name": "Reality",
+    "Role": "Mod",
+    "Image": "ZephMO.png",
+    "Value": 10000
+  }
+]
