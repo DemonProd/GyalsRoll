@@ -292,5 +292,17 @@
     "Role": "Mod",
     "Image": "ZephMO.png",
     "Value": 10000
+  },
+  {
+    "Name": "Ritz",
+    "Role": "Member",
+    "Image": "RitzM.png",
+    "Value": 500
+  },
+  {
+    "Name": "Ritz",
+    "Role": "OG Member",
+    "Image": "RitzOG.png",
+    "Value": 1000
   }
 ]
